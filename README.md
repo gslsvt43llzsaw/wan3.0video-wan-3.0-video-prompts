@@ -2,7 +2,7 @@
 
 > **480P $0.0329; 720P $0.0658; default $0.1315** — flat per-unit billing through the OpenAI-compatible APIMart gateway, $1 minimum top-up.
 
-**[Live pricing](https://apimart.ai/pricing)** · **[Get an API key](https://apimart.ai/keys)**
+**[Live pricing](https://go.apimart.ai/k-55d0dd)** · **[Get an API key](https://go.apimart.ai/k-490721)**
 
 Everything here refers to **wan-3.0-video** — also written **wan3.0video** or **wan 3.0 video**.
 
